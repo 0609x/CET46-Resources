@@ -1,0 +1,13 @@
+# 二进制文件按 blob 处理，避免 git 参与 diff
+*.pdf binary
+*.doc binary
+*.docx binary
+*.rtf binary
+*.mp3 binary
+*.m4a binary
+*.wav binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary

@@ -1,0 +1,11 @@
+# 系统 / 编辑器缓存
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+~$*
+
+# 依赖与工具产物（如自动下载脚本残留）
+node_modules/
+package-lock.json
+package.json
